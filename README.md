@@ -17,5 +17,5 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Reference:
-[1]. https://github.com/thangdduong/CS231_TikTok_Effects
-[2]. https://google.github.io/mediapipe
+<p>[1]. https://github.com/thangdduong/CS231_TikTok_Effects</p>
+<p>[2]. https://google.github.io/mediapipe</p>
